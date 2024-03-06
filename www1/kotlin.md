@@ -7,4 +7,5 @@
 
 Kotlin (programming language) Kotlin ( / ˈkɒtlɪn /) [2] is a cross-platform, statically typed, general-purpose high-level programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, [3] [failed verification] but type ...
 
-More at: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
+More at: 
+[https://en.wikipedia.org/wiki/Kotlin_(programming_language)](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
